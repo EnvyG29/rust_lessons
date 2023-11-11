@@ -1,0 +1,1 @@
+/home/envyg/rust_lessons/restaurant/target/debug/librestaurant.rlib: /home/envyg/rust_lessons/restaurant/src/front_of_house/hosting.rs /home/envyg/rust_lessons/restaurant/src/front_of_house.rs /home/envyg/rust_lessons/restaurant/src/lib.rs
