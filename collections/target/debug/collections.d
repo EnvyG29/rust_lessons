@@ -1,0 +1,1 @@
+/home/envyg/rust_lessons/collections/target/debug/collections: /home/envyg/rust_lessons/collections/src/hashmaps.rs /home/envyg/rust_lessons/collections/src/main.rs /home/envyg/rust_lessons/collections/src/strings.rs /home/envyg/rust_lessons/collections/src/vector.rs

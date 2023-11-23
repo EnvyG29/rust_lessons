@@ -1,0 +1,1 @@
+/home/envyg/rust_lessons/collections_intermediate_work/target/debug/collections_intermediate_work: /home/envyg/rust_lessons/collections_intermediate_work/src/main.rs /home/envyg/rust_lessons/collections_intermediate_work/src/string_task.rs /home/envyg/rust_lessons/collections_intermediate_work/src/vector_task.rs
